@@ -235,8 +235,8 @@
     transition: all 0.4s ease-in-out;
   }
   .header-content .left-header .image img {
-    width: 50vh;
-    height: 50vh;
+    width: 70vh;
+    height: 70vh;
     object-fit:cover;
     border-radius: 100%;
     transition: all 0.4s ease-in-out;
